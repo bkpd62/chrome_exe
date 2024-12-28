@@ -1,43 +1,43 @@
 const quotes = [
     {
-        quote: "oneoneone - 1",
-        author: "oneoneone - 2"
+        quote: "They must often change who would be constant in happiness or wisdom.",
+        author: "Confucius"
     },
     {
-        quote: "twotwotwo - 1",
-        author: "twotwotwo - 2"
+        quote: "You will face many defeats in life, but never let yourself be defeated.",
+        author: "Maya Angelou"
     },
     {
-        quote: "threethreethree - 1",
-        author: "threethreethree - 2"
+        quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        author: "Nelson Mandela"
     },
     {
-        quote: "fourfourfour - 1",
-        author: "fourfourfour - 2"
+        quote: "Life is either a daring adventure or nothing at all.",
+        author: "Helen Keller"
     },
     {
-        quote: "fivefivefive - 1",
-        author: "fivefivefive - 2"
+        quote: "Only I can change me life, no one can do it for me",
+        author: "Carol Burnett"
     },
     {
-        quote: "sixsixsix - 1",
-        author: "sixsixsix - 2"
+        quote: "Turn your wounds into wisdom.",
+        author: "Oprah Gail Winfrey"
     },
     {
-        quote: "sevensevenseven - 1",
-        author: "sevensevenseven - 2"
+        quote: "Great minds have purposes, others have wishes.",
+        author: "Washington Irving"
     },
     {
-        quote: "eighteighteight - 1",
-        author: "eighteighteight - 2"
+        quote: "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+        author: "Jim Rohn"
     },
     {
-        quote: "nineninenine - 1",
-        author: "nineninenine - 2"
+        quote: "Success is going from failure to failure without a loss of enthusiasm.",
+        author: "Winston Churchill"
     },
     {
-        quote: "tententen - 1",
-        author: "tententen - 2"
+        quote: "Don’t be afraid to give up the good to go for the great.",
+        author: "John D. Rockefeller"
     }
 ]
 
